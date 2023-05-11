@@ -24,3 +24,11 @@ Repositório referente ao evento Intensivão Spring Java promovido por DevSuperi
 - Projections
 - Endpoints customizados
 
+### Conteúdos abordados durante a terceira aula (10/05/2023)
+
+- Dicas de currículo e portfólio
+- Perfis de projeto
+- Ambiente local com Docker Compose
+- Processor de deploy (Railway) com CI/CD
+- Configuração do CORS
+
