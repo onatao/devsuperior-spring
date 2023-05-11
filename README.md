@@ -16,5 +16,11 @@ Repositório referente ao evento Intensivão Spring Java promovido por DevSuperi
 - Controller, Service e Repository
 - Padrão DTO (Data Transfer Object)
 
+### Conteúdos abordados na segunda aula (09/05/2023)
 
+- Relacionamentos ManyToMany e ManyToOne
+- Classe de associação (@Embedded id)
+- Consultas SQL no Spring Data JPA
+- Projections
+- Endpoints customizados
 
