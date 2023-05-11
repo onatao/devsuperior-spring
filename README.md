@@ -3,7 +3,7 @@ Repositório referente ao evento Intensivão Spring Java promovido por DevSuperi
 
 
 
-### Conteúdos abordados na primeira aula (08/05/2023)
+### Conteúdos abordados durante primeira aula (08/05/2023)
 
 - Conceitos 
   - Sistemas WEB e recursos
@@ -16,7 +16,7 @@ Repositório referente ao evento Intensivão Spring Java promovido por DevSuperi
 - Controller, Service e Repository
 - Padrão DTO (Data Transfer Object)
 
-### Conteúdos abordados na segunda aula (09/05/2023)
+### Conteúdos abordados durante segunda aula (09/05/2023)
 
 - Relacionamentos ManyToMany e ManyToOne
 - Classe de associação (@Embedded id)
