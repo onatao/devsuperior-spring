@@ -1,4 +1,4 @@
-# spring-intensivao-devsuperior
+# intesivo-springboot-devsuperior
 Repositório referente ao evento Intensivão Spring Java promovido por DevSuperior, professor Nélio Alves.
 
 
