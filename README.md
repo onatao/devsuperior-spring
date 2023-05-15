@@ -38,3 +38,6 @@ Repositório referente ao evento Intensivão Spring Java promovido por DevSuperi
 - Verbo HTTP e idempotência
 - Atingindo o nível Ultimate Java Spring
 
+## Modelo de domínio DS List
+![domain_model](assets/domain_model.jpeg)
+
