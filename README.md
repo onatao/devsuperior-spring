@@ -32,3 +32,9 @@ Repositório referente ao evento Intensivão Spring Java promovido por DevSuperi
 - Processor de deploy (Railway) com CI/CD
 - Configuração do CORS
 
+### Conteúdos abordados durante a quarta aula (11/05/2023)
+
+- Design e implementação de endpoint
+- Verbo HTTP e idempotência
+- Atingindo o nível Ultimate Java Spring
+
