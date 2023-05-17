@@ -1,7 +1,8 @@
 # intesivo-springboot-devsuperior
 Repositório referente ao evento Intensivão Spring Java promovido por DevSuperior, professor Nélio Alves.
 
-
+## Modelo de domínio DS List
+![domain_model](assets/domain_model.jpeg)
 
 ### Conteúdos abordados durante primeira aula (08/05/2023)
 
@@ -37,7 +38,3 @@ Repositório referente ao evento Intensivão Spring Java promovido por DevSuperi
 - Design e implementação de endpoint
 - Verbo HTTP e idempotência
 - Atingindo o nível Ultimate Java Spring
-
-## Modelo de domínio DS List
-![domain_model](assets/domain_model.jpeg)
-
